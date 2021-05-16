@@ -8,3 +8,13 @@
 *.db-wal
 *.opendb
 /.vs
+*.lastbuildstate
+*.tlog
+*.recipe
+*.log
+*.obj
+*.idb
+*.pdb
+*.user
+*.exe
+*.ilk
