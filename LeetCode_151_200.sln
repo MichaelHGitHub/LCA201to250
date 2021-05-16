@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "201_Bitwise_AND_of_Numbers_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "202_Happy_Number", "202_Happy_Number\202_Happy_Number.vcxproj", "{7AC736CE-7A5D-4FB0-A60C-3BEEA7558DD3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "203_Remove_Linked_List_Elements", "203_Remove_Linked_List_Elements\203_Remove_Linked_List_Elements.vcxproj", "{F6AE760B-385C-4745-9BC9-765A3A5EE91A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{7AC736CE-7A5D-4FB0-A60C-3BEEA7558DD3}.Release|x64.Build.0 = Release|x64
 		{7AC736CE-7A5D-4FB0-A60C-3BEEA7558DD3}.Release|x86.ActiveCfg = Release|Win32
 		{7AC736CE-7A5D-4FB0-A60C-3BEEA7558DD3}.Release|x86.Build.0 = Release|Win32
+		{F6AE760B-385C-4745-9BC9-765A3A5EE91A}.Debug|x64.ActiveCfg = Debug|x64
+		{F6AE760B-385C-4745-9BC9-765A3A5EE91A}.Debug|x64.Build.0 = Debug|x64
+		{F6AE760B-385C-4745-9BC9-765A3A5EE91A}.Debug|x86.ActiveCfg = Debug|Win32
+		{F6AE760B-385C-4745-9BC9-765A3A5EE91A}.Debug|x86.Build.0 = Debug|Win32
+		{F6AE760B-385C-4745-9BC9-765A3A5EE91A}.Release|x64.ActiveCfg = Release|x64
+		{F6AE760B-385C-4745-9BC9-765A3A5EE91A}.Release|x64.Build.0 = Release|x64
+		{F6AE760B-385C-4745-9BC9-765A3A5EE91A}.Release|x86.ActiveCfg = Release|Win32
+		{F6AE760B-385C-4745-9BC9-765A3A5EE91A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
