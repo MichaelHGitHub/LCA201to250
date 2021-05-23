@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "213_House_Robber_II", "213_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "215_K_Largest_Element", "215_K_Largest_Element\215_K_Largest_Element.vcxproj", "{97E675F0-6B34-4568-9BA7-7E4AA86C3530}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "216_Combination_Sum_III", "216_Combination_Sum_III\216_Combination_Sum_III.vcxproj", "{58FA2F1F-58C2-49A4-A325-2BFD839D12E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{97E675F0-6B34-4568-9BA7-7E4AA86C3530}.Release|x64.Build.0 = Release|x64
 		{97E675F0-6B34-4568-9BA7-7E4AA86C3530}.Release|x86.ActiveCfg = Release|Win32
 		{97E675F0-6B34-4568-9BA7-7E4AA86C3530}.Release|x86.Build.0 = Release|Win32
+		{58FA2F1F-58C2-49A4-A325-2BFD839D12E0}.Debug|x64.ActiveCfg = Debug|x64
+		{58FA2F1F-58C2-49A4-A325-2BFD839D12E0}.Debug|x64.Build.0 = Debug|x64
+		{58FA2F1F-58C2-49A4-A325-2BFD839D12E0}.Debug|x86.ActiveCfg = Debug|Win32
+		{58FA2F1F-58C2-49A4-A325-2BFD839D12E0}.Debug|x86.Build.0 = Debug|Win32
+		{58FA2F1F-58C2-49A4-A325-2BFD839D12E0}.Release|x64.ActiveCfg = Release|x64
+		{58FA2F1F-58C2-49A4-A325-2BFD839D12E0}.Release|x64.Build.0 = Release|x64
+		{58FA2F1F-58C2-49A4-A325-2BFD839D12E0}.Release|x86.ActiveCfg = Release|Win32
+		{58FA2F1F-58C2-49A4-A325-2BFD839D12E0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
