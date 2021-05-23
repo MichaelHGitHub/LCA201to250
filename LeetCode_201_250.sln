@@ -33,6 +33,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "216_Combination_Sum_III", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "217_Contains_Duplicate", "217_Contains_Duplicate\217_Contains_Duplicate.vcxproj", "{20D0B751-3C9B-49E9-953C-621167B39FAB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "219_Contains_Duplicate_II", "219_Contains_Duplicate_II\219_Contains_Duplicate_II.vcxproj", "{D34407A9-A785-4E31-91FB-81AA76DC842F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -161,6 +163,14 @@ Global
 		{20D0B751-3C9B-49E9-953C-621167B39FAB}.Release|x64.Build.0 = Release|x64
 		{20D0B751-3C9B-49E9-953C-621167B39FAB}.Release|x86.ActiveCfg = Release|Win32
 		{20D0B751-3C9B-49E9-953C-621167B39FAB}.Release|x86.Build.0 = Release|Win32
+		{D34407A9-A785-4E31-91FB-81AA76DC842F}.Debug|x64.ActiveCfg = Debug|x64
+		{D34407A9-A785-4E31-91FB-81AA76DC842F}.Debug|x64.Build.0 = Debug|x64
+		{D34407A9-A785-4E31-91FB-81AA76DC842F}.Debug|x86.ActiveCfg = Debug|Win32
+		{D34407A9-A785-4E31-91FB-81AA76DC842F}.Debug|x86.Build.0 = Debug|Win32
+		{D34407A9-A785-4E31-91FB-81AA76DC842F}.Release|x64.ActiveCfg = Release|x64
+		{D34407A9-A785-4E31-91FB-81AA76DC842F}.Release|x64.Build.0 = Release|x64
+		{D34407A9-A785-4E31-91FB-81AA76DC842F}.Release|x86.ActiveCfg = Release|Win32
+		{D34407A9-A785-4E31-91FB-81AA76DC842F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
