@@ -37,6 +37,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "219_Contains_Duplicate_II",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "220_Contains_Duplicate_III", "220_Contains_Duplicate_III\220_Contains_Duplicate_III.vcxproj", "{10C60809-A0CF-4ACD-9C83-D537B2695B15}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "221_Maximal_Square", "221_Maximal_Square\221_Maximal_Square.vcxproj", "{7F54E29F-6D58-479C-8FEA-CA0DA99055AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -181,6 +183,14 @@ Global
 		{10C60809-A0CF-4ACD-9C83-D537B2695B15}.Release|x64.Build.0 = Release|x64
 		{10C60809-A0CF-4ACD-9C83-D537B2695B15}.Release|x86.ActiveCfg = Release|Win32
 		{10C60809-A0CF-4ACD-9C83-D537B2695B15}.Release|x86.Build.0 = Release|Win32
+		{7F54E29F-6D58-479C-8FEA-CA0DA99055AF}.Debug|x64.ActiveCfg = Debug|x64
+		{7F54E29F-6D58-479C-8FEA-CA0DA99055AF}.Debug|x64.Build.0 = Debug|x64
+		{7F54E29F-6D58-479C-8FEA-CA0DA99055AF}.Debug|x86.ActiveCfg = Debug|Win32
+		{7F54E29F-6D58-479C-8FEA-CA0DA99055AF}.Debug|x86.Build.0 = Debug|Win32
+		{7F54E29F-6D58-479C-8FEA-CA0DA99055AF}.Release|x64.ActiveCfg = Release|x64
+		{7F54E29F-6D58-479C-8FEA-CA0DA99055AF}.Release|x64.Build.0 = Release|x64
+		{7F54E29F-6D58-479C-8FEA-CA0DA99055AF}.Release|x86.ActiveCfg = Release|Win32
+		{7F54E29F-6D58-479C-8FEA-CA0DA99055AF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
