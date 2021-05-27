@@ -41,6 +41,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "221_Maximal_Square", "221_M
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "222_Complete_Tree_Nodes", "222_Complete_Tree_Nodes\222_Complete_Tree_Nodes.vcxproj", "{FBD09976-89CB-4D26-9515-F11C9E1EC7A4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "223_Rectangle_Area", "223_Rectangle_Area\223_Rectangle_Area.vcxproj", "{6B5CE7DC-06F9-424A-A38D-06205DCFB5CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -201,6 +203,14 @@ Global
 		{FBD09976-89CB-4D26-9515-F11C9E1EC7A4}.Release|x64.Build.0 = Release|x64
 		{FBD09976-89CB-4D26-9515-F11C9E1EC7A4}.Release|x86.ActiveCfg = Release|Win32
 		{FBD09976-89CB-4D26-9515-F11C9E1EC7A4}.Release|x86.Build.0 = Release|Win32
+		{6B5CE7DC-06F9-424A-A38D-06205DCFB5CA}.Debug|x64.ActiveCfg = Debug|x64
+		{6B5CE7DC-06F9-424A-A38D-06205DCFB5CA}.Debug|x64.Build.0 = Debug|x64
+		{6B5CE7DC-06F9-424A-A38D-06205DCFB5CA}.Debug|x86.ActiveCfg = Debug|Win32
+		{6B5CE7DC-06F9-424A-A38D-06205DCFB5CA}.Debug|x86.Build.0 = Debug|Win32
+		{6B5CE7DC-06F9-424A-A38D-06205DCFB5CA}.Release|x64.ActiveCfg = Release|x64
+		{6B5CE7DC-06F9-424A-A38D-06205DCFB5CA}.Release|x64.Build.0 = Release|x64
+		{6B5CE7DC-06F9-424A-A38D-06205DCFB5CA}.Release|x86.ActiveCfg = Release|Win32
+		{6B5CE7DC-06F9-424A-A38D-06205DCFB5CA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
