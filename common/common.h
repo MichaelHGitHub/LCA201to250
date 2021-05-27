@@ -804,6 +804,7 @@ void CheckResults(TD_T_B testData, bool result);
 
 void PrintInput(TD_T_T testData);
 void CheckResults(TD_T_T testData);
+void CheckResults(TD_T_T testData, TreeNode* result);
 
 void PrintInput(TD_T_T_B testData);
 void CheckResults(TD_T_T_B testData, bool result);

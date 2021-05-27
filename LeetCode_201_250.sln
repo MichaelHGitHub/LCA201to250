@@ -45,6 +45,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "223_Rectangle_Area", "223_R
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "225_Stack_using_Queues", "225_Stack_using_Queues\225_Stack_using_Queues.vcxproj", "{4630C685-7C58-4356-9D38-B336FB8B7F43}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "226_Invert_Binary_Tree", "226_Invert_Binary_Tree\226_Invert_Binary_Tree.vcxproj", "{FE7342F4-2E42-4DDB-9FDD-C37F45430DCB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -221,6 +223,14 @@ Global
 		{4630C685-7C58-4356-9D38-B336FB8B7F43}.Release|x64.Build.0 = Release|x64
 		{4630C685-7C58-4356-9D38-B336FB8B7F43}.Release|x86.ActiveCfg = Release|Win32
 		{4630C685-7C58-4356-9D38-B336FB8B7F43}.Release|x86.Build.0 = Release|Win32
+		{FE7342F4-2E42-4DDB-9FDD-C37F45430DCB}.Debug|x64.ActiveCfg = Debug|x64
+		{FE7342F4-2E42-4DDB-9FDD-C37F45430DCB}.Debug|x64.Build.0 = Debug|x64
+		{FE7342F4-2E42-4DDB-9FDD-C37F45430DCB}.Debug|x86.ActiveCfg = Debug|Win32
+		{FE7342F4-2E42-4DDB-9FDD-C37F45430DCB}.Debug|x86.Build.0 = Debug|Win32
+		{FE7342F4-2E42-4DDB-9FDD-C37F45430DCB}.Release|x64.ActiveCfg = Release|x64
+		{FE7342F4-2E42-4DDB-9FDD-C37F45430DCB}.Release|x64.Build.0 = Release|x64
+		{FE7342F4-2E42-4DDB-9FDD-C37F45430DCB}.Release|x86.ActiveCfg = Release|Win32
+		{FE7342F4-2E42-4DDB-9FDD-C37F45430DCB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
