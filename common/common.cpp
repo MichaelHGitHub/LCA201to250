@@ -2352,6 +2352,37 @@ void CheckResults(TD_T_I testData, int result)
     std::cout << endl;
 }
 
+void PrintInput(TD_T_I_I testData)
+{
+    std::cout << "Input :";
+    PrintData(testData.input);
+    std::cout << endl;
+
+    std::cout << "Input2 :";
+    PrintData(testData.input2);
+    std::cout << endl;
+}
+void CheckResults(TD_T_I_I testData, int result)
+{
+    std::cout << "Output: ";
+    PrintData(result);
+    std::cout << endl;
+
+    if (testData.output == result)
+    {
+        std::cout << "Succeeded!" << endl;
+    }
+    else
+    {
+        std::cout << "***Failed!***" << endl;
+        std::cout << "Expect: " << endl;
+        PrintData(testData.output);
+        std::cout << endl;
+    }
+
+    std::cout << endl;
+}
+
 void PrintInput(TD_T_I_B testData)
 {
     std::cout << "Input :";
