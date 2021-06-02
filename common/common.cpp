@@ -2441,7 +2441,7 @@ void CheckResults(TD_T_I_B testData, bool result)
     std::cout << endl;
 }
 
-void PrintInput(TD_T_T_T_T testData)
+void PrintInput(TD_T_T_T_I testData)
 {
     std::cout << "Input :";
     PrintData(testData.input);
@@ -2455,13 +2455,13 @@ void PrintInput(TD_T_T_T_T testData)
     PrintData(testData.input3);
     std::cout << endl;
 }
-void CheckResults(TD_T_T_T_T testData, TreeNode* result)
+void CheckResults(TD_T_T_T_I testData, int result)
 {
     std::cout << "Output: ";
     PrintData(result);
     std::cout << endl;
 
-    if (IsSameTree(testData.output, result))
+    if (testData.output == result)
     {
         std::cout << "Succeeded!" << endl;
     }

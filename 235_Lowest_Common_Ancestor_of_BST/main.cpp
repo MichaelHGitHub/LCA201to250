@@ -2,7 +2,7 @@
 
 int main(char* args[], int argc)
 {
-    vector<TD_T_T_T_T> test_data;
+    vector<TD_T_T_T_I> test_data;
 
     PrepareTestData(test_data);
 
@@ -11,7 +11,7 @@ int main(char* args[], int argc)
         PrintInput(test_data[i]);
         TreeNode* result = lowestCommonAncestor2(test_data[i].input, test_data[i].input2, test_data[i].input3);
 
-        CheckResults(test_data[i], result);
+        CheckResults(test_data[i], result->val);
     }
 
     return 0;
