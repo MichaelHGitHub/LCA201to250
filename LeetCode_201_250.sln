@@ -65,6 +65,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "234_Palindrome_Linked_List"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "235_Lowest_Common_Ancestor_of_BST", "235_Lowest_Common_Ancestor_of_BST\235_Lowest_Common_Ancestor_of_BST.vcxproj", "{66F3693F-CAFE-4B92-8F87-CACA4A14F509}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "236_Lowest_Common_Ancestor_Binary_Tree", "236_Lowest_Common_Ancestor_Binary_Tree\236_Lowest_Common_Ancestor_Binary_Tree.vcxproj", "{86B459A5-2CF5-45E1-82C4-8B772A5C3232}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -321,6 +323,14 @@ Global
 		{66F3693F-CAFE-4B92-8F87-CACA4A14F509}.Release|x64.Build.0 = Release|x64
 		{66F3693F-CAFE-4B92-8F87-CACA4A14F509}.Release|x86.ActiveCfg = Release|Win32
 		{66F3693F-CAFE-4B92-8F87-CACA4A14F509}.Release|x86.Build.0 = Release|Win32
+		{86B459A5-2CF5-45E1-82C4-8B772A5C3232}.Debug|x64.ActiveCfg = Debug|x64
+		{86B459A5-2CF5-45E1-82C4-8B772A5C3232}.Debug|x64.Build.0 = Debug|x64
+		{86B459A5-2CF5-45E1-82C4-8B772A5C3232}.Debug|x86.ActiveCfg = Debug|Win32
+		{86B459A5-2CF5-45E1-82C4-8B772A5C3232}.Debug|x86.Build.0 = Debug|Win32
+		{86B459A5-2CF5-45E1-82C4-8B772A5C3232}.Release|x64.ActiveCfg = Release|x64
+		{86B459A5-2CF5-45E1-82C4-8B772A5C3232}.Release|x64.Build.0 = Release|x64
+		{86B459A5-2CF5-45E1-82C4-8B772A5C3232}.Release|x86.ActiveCfg = Release|Win32
+		{86B459A5-2CF5-45E1-82C4-8B772A5C3232}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
