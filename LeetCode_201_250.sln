@@ -61,6 +61,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "231_Power_of_Two", "231_Pow
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "232_Implement_Queue_using_Stacks", "232_Implement_Queue_using_Stacks\232_Implement_Queue_using_Stacks.vcxproj", "{793C1B0A-85D4-4331-94AD-8FD56B485B3F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "234_Palindrome_Linked_List", "234_Palindrome_Linked_List\234_Palindrome_Linked_List.vcxproj", "{D618DDD8-E15E-47E2-94B6-F66D9B2A5CA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -301,6 +303,14 @@ Global
 		{793C1B0A-85D4-4331-94AD-8FD56B485B3F}.Release|x64.Build.0 = Release|x64
 		{793C1B0A-85D4-4331-94AD-8FD56B485B3F}.Release|x86.ActiveCfg = Release|Win32
 		{793C1B0A-85D4-4331-94AD-8FD56B485B3F}.Release|x86.Build.0 = Release|Win32
+		{D618DDD8-E15E-47E2-94B6-F66D9B2A5CA6}.Debug|x64.ActiveCfg = Debug|x64
+		{D618DDD8-E15E-47E2-94B6-F66D9B2A5CA6}.Debug|x64.Build.0 = Debug|x64
+		{D618DDD8-E15E-47E2-94B6-F66D9B2A5CA6}.Debug|x86.ActiveCfg = Debug|Win32
+		{D618DDD8-E15E-47E2-94B6-F66D9B2A5CA6}.Debug|x86.Build.0 = Debug|Win32
+		{D618DDD8-E15E-47E2-94B6-F66D9B2A5CA6}.Release|x64.ActiveCfg = Release|x64
+		{D618DDD8-E15E-47E2-94B6-F66D9B2A5CA6}.Release|x64.Build.0 = Release|x64
+		{D618DDD8-E15E-47E2-94B6-F66D9B2A5CA6}.Release|x86.ActiveCfg = Release|Win32
+		{D618DDD8-E15E-47E2-94B6-F66D9B2A5CA6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

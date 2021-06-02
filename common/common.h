@@ -135,6 +135,12 @@ struct TD_N_VI
     vector<int> output;
 };
 
+struct TD_L_B
+{
+    ListNode* input;
+    bool output;
+};
+
 struct TD_L_L
 {
     ListNode* input;
@@ -779,6 +785,9 @@ void CheckResults(TD_VVC_VVC testData, vector<vector<char>> result);
 
 void PrintInput(TD_L_L testData);
 void CheckResults(TD_L_L testData, ListNode* result);
+
+void PrintInput(TD_L_B testData);
+void CheckResults(TD_L_B testData, bool result);
 
 void PrintInput(TD_CL_B testData);
 void CheckResults(TD_CL_B testData, bool result);
