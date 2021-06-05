@@ -71,6 +71,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "237_Delete_Node_Linked_List
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "238_Product_of_Array_Except_Self", "238_Product_of_Array_Except_Self\238_Product_of_Array_Except_Self.vcxproj", "{528FC2D9-55DB-4FB7-B709-9B977754070A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240_Search_a_2D_Matrix_II", "240_Search_a_2D_Matrix_II\240_Search_a_2D_Matrix_II.vcxproj", "{02CA170F-CD40-4841-A9CE-E6B45AF56767}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -351,6 +353,14 @@ Global
 		{528FC2D9-55DB-4FB7-B709-9B977754070A}.Release|x64.Build.0 = Release|x64
 		{528FC2D9-55DB-4FB7-B709-9B977754070A}.Release|x86.ActiveCfg = Release|Win32
 		{528FC2D9-55DB-4FB7-B709-9B977754070A}.Release|x86.Build.0 = Release|Win32
+		{02CA170F-CD40-4841-A9CE-E6B45AF56767}.Debug|x64.ActiveCfg = Debug|x64
+		{02CA170F-CD40-4841-A9CE-E6B45AF56767}.Debug|x64.Build.0 = Debug|x64
+		{02CA170F-CD40-4841-A9CE-E6B45AF56767}.Debug|x86.ActiveCfg = Debug|Win32
+		{02CA170F-CD40-4841-A9CE-E6B45AF56767}.Debug|x86.Build.0 = Debug|Win32
+		{02CA170F-CD40-4841-A9CE-E6B45AF56767}.Release|x64.ActiveCfg = Release|x64
+		{02CA170F-CD40-4841-A9CE-E6B45AF56767}.Release|x64.Build.0 = Release|x64
+		{02CA170F-CD40-4841-A9CE-E6B45AF56767}.Release|x86.ActiveCfg = Release|Win32
+		{02CA170F-CD40-4841-A9CE-E6B45AF56767}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
