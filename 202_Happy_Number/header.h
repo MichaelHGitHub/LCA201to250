@@ -4,4 +4,4 @@
 
 void PrepareTestData(vector<TD_I_B>& testData);
 
-bool isHappy(int n);
+bool isHappy_r(int n);
