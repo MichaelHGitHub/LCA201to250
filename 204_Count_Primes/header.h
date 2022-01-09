@@ -5,3 +5,5 @@
 void PrepareTestData(vector<TD_I_I>& testData);
 
 int countPrimes(int n);
+
+int countPrimes_r(int n);
