@@ -9,7 +9,7 @@ int main(char* args[], int argc)
     for (int i = 0; i < test_data.size(); i++)
     {
         PrintInput(test_data[i]);
-        bool result = isIsomorphic2(test_data[i].input, test_data[i].input2);
+        bool result = isIsomorphic_r2(test_data[i].input, test_data[i].input2);
 
         CheckResults(test_data[i], result);
     }
