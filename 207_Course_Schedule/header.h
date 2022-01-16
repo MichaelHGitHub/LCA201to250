@@ -4,4 +4,4 @@
 
 void PrepareTestData(vector<TD_I_VVI_B>& testData);
 
-bool canFinish(int numCourses, vector<vector<int>>& prerequisites);
+bool canFinish_r(int numCourses, vector<vector<int>>& prerequisites);
