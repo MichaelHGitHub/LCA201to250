@@ -142,6 +142,7 @@
     <ClInclude Include="header.h" />
     <ClInclude Include="header2.h" />
     <ClInclude Include="header3.h" />
+    <ClInclude Include="revisit.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />

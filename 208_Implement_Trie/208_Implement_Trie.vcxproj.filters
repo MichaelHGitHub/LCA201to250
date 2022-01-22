@@ -24,6 +24,9 @@
     <ClInclude Include="header3.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="revisit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
