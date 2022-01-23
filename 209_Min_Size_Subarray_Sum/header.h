@@ -7,3 +7,7 @@ void PrepareTestData(vector<TD_I_VI_I>& testData);
 int minSubArrayLen(int target, vector<int>& nums);
 
 int minSubArrayLen2(int target, vector<int>& nums);
+
+int minSubArrayLen_r(int target, vector<int>& nums);
+
+int minSubArrayLen_r2(int target, vector<int>& nums);
