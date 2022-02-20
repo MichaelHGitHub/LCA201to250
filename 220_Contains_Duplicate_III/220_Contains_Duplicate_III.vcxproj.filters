@@ -33,6 +33,12 @@
     <ClCompile Include="solution3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="revisit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="revisited2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h">

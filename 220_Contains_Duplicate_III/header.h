@@ -9,3 +9,8 @@ bool containsNearbyAlmostDuplicate(vector<int>& nums, int k, int t);
 bool containsNearbyAlmostDuplicate2(vector<int>& nums, int k, int t);
 
 bool containsNearbyAlmostDuplicate3(vector<int>& nums, int k, int t);
+
+
+bool containsNearbyAlmostDuplicate_r(vector<int>& nums, int k, int t);
+
+bool containsNearbyAlmostDuplicate_r2(vector<int>& nums, int k, int t);
