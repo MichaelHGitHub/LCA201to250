@@ -141,6 +141,8 @@
   <ItemGroup>
     <ClCompile Include="..\common\common.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="revisit.cpp" />
+    <ClCompile Include="revisit2.cpp" />
     <ClCompile Include="solution.cpp" />
     <ClCompile Include="solution2.cpp" />
     <ClCompile Include="test.cpp" />
