@@ -9,7 +9,7 @@ int main(char* args[], int argc)
     for (int i = 0; i < test_data.size(); i++)
     {
         PrintInput(test_data[i]);
-        int result = computeArea(
+        int result = computeArea_r(
             test_data[i].input[0],
             test_data[i].input[1],
             test_data[i].input[2],
