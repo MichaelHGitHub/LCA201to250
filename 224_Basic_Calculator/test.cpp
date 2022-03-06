@@ -32,6 +32,10 @@ void PrepareTestData(vector<TD_S_I>& testData)
     data.output = 7;
     testData.push_back(data);
 
+    data.input = "   -2+ 1";
+    data.output = -1;
+    testData.push_back(data);
+
     data.input = "-2+ 1";
     data.output = -1;
     testData.push_back(data);

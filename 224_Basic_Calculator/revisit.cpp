@@ -124,7 +124,7 @@ bool IsNagetiveSign(string& s, int pos)
                     --i;
                 }
 
-                if (i >= 0 && s[i] == '(')
+                if (i < 0 || s[i] == '(')
                 {
                     result = true;
                 }
