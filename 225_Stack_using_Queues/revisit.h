@@ -48,19 +48,6 @@ private:
     std::queue<int> q2;
     std::queue<int>* pQMain;
     std::queue<int>* pQTop;
-
-    void SwapQueue()
-    {
-        while (pQMain->size() > 1)
-        {
-            pQTop->push(pQMain->front());
-            pQMain->pop();
-        }
-
-        std::queue<int>* temp = pQMain;
-        pQMain = pQTop;
-        pQTop = temp;
-    }
 };
 
 /**
