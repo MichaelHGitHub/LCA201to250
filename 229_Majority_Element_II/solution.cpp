@@ -16,20 +16,6 @@ vector<int> majorityElement(vector<int>& nums) {
 
     for (int i = 0; i < nums.size(); i++)
     {
-        // Need to make sure two majority numbers are different.
-        if (!c1 && m2 != nums[i])
-        {
-            m1 = nums[i];
-            c1 = 1;
-            continue;
-        }
-
-        if (!c2 && m1 != nums[i])
-        {
-            m2 = nums[i];
-            c2 = 1;
-            continue;
-        }
         // Add vote 
         if (m1 == nums[i])
         {
@@ -43,6 +29,20 @@ vector<int> majorityElement(vector<int>& nums) {
             continue;
         }
 
+        if (c1 == 0)
+        {
+            m1 = nums[i];
+            c1 = 1;
+            continue;
+        }
+
+        if (c2 == 0)
+        {
+            m2 = nums[i];
+            c2 = 1;
+            continue;
+        }
+
         // Deduct vote
         --c1;
         --c2;
@@ -52,6 +52,7 @@ vector<int> majorityElement(vector<int>& nums) {
             c1 = 0;
             m1 = INT32_MAX;
         }
+
         if (c2 < 0)
         {
             c2 = 0;
