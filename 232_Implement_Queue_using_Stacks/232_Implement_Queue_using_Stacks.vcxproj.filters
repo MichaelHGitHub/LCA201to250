@@ -21,5 +21,8 @@
     <ClInclude Include="header2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="revisit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
