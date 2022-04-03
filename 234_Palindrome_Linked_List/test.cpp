@@ -4,7 +4,7 @@ void PrepareTestData(vector<TD_L_B>& testData)
 {
     TD_L_B data;
 
-    data.input = GenerateLinkedList({ });
+    data.input = GenerateLinkedList({ 1, 1, 2, 1});
     data.output = false;
     testData.push_back(data);
 
