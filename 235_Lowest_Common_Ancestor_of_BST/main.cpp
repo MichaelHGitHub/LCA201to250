@@ -9,7 +9,7 @@ int main(char* args[], int argc)
     for (int i = 0; i < test_data.size(); i++)
     {
         PrintInput(test_data[i]);
-        TreeNode* result = lowestCommonAncestor2(test_data[i].input, test_data[i].input2, test_data[i].input3);
+        TreeNode* result = lowestCommonAncestor_r2(test_data[i].input, test_data[i].input2, test_data[i].input3);
 
         CheckResults(test_data[i], result->val);
     }
